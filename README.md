@@ -6,6 +6,8 @@ Code accompanying:
 
 **Author:** Hanna Sigeman
 
+Scripts are organized according to the corresponding Methods subsections in the manuscript. Each directory contains the code used to reproduce the analyses described below.
+
 ## Workflow overview
 
 | Step | Description |
