@@ -2,7 +2,7 @@
 
 Code accompanying:
 
-**Evolutionary dynamics of enlarged sex chromosomes and novel pseudoautosomal regions in Sylvioidea songbirds**
+**Evolutionary dynamics of enlarged neo-sex chromosomes and novel pseudoautosomal regions in Sylvioidea songbirds**
 
 **Author:** Hanna Sigeman
 
