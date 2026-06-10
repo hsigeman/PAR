@@ -4,7 +4,7 @@ Code accompanying:
 
 **Evolutionary dynamics of enlarged neo-sex chromosomes and novel pseudoautosomal regions in Sylvioidea songbirds**
 
-**Author:** Hanna Sigeman
+**Authors:** Hanna Sigeman, Simon J. Ellestrand, Bengt Hansson 
 
 Scripts are organized according to the corresponding Methods subsections in the manuscript. Each directory contains the code used to reproduce the analyses described below.
 
